@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Font style */
+    color: #333; /* Dark gray text color */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add padding */
+}
+
+h1 {
+    color: #ff4500; /* Orange red color */
+    text-align: center; /* Center align the heading */
+    font-size: 2.5em; /* Increase font size */
+    margin-bottom: 20px; /* Space below the heading */
+}
+
+p {
+    font-size: 1.2em; /* Increase paragraph font size */
+    text-align: center; /* Center align the paragraph */
+    margin-top: 0; /* Remove default top margin */
+}
+
+
+
